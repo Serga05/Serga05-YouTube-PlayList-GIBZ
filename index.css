@@ -1,0 +1,40 @@
+  #buttonWhat {
+	  background-color: #6060ff;
+	  border-color: #6060ff;
+	  width: 127px;
+	  height: 35px
+  }
+  .body-color-black {
+	  background-color: #121212;
+	  color: white;
+  }
+  h1 {
+	  color: white;
+  }
+  #ButtonBack {
+	  background-color: #ffff40;
+	  border-color: #ffff40;
+	  width: 102px;
+  }
+  #ButtonNext {
+	  background-color: #d5ff44;
+	  border-color: #d5ff44;
+  } 
+   #Video-Serga05 {
+      border-color: grey;
+   }
+    #URL-HREF {
+    color: #3ea6ff;
+	text-decoration: none;
+	}
+	#TEXT-PINK {
+		color: #ffabba
+	}
+	.paf {
+    border-bottom: 1px solid grey;
+	}
+	.body-color-pink {
+		background-color: #ffabba;
+	}
+	button-pink
+		
