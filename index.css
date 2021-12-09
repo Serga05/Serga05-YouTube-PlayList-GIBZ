@@ -1,0 +1,65 @@
+  #buttonWhat {
+	  background-color: #6060ff;
+	  border-color: #6060ff;
+	  width: 127px;
+	  height: 35px
+  }
+  .body-color-black {
+	  background-color: #121212;
+	  color: white;
+  }
+  h1 {
+	  color: white;
+  }
+  #ButtonBack {
+	  background-color: #ffff40;
+	  border-color: #ffff40;
+	  width: 102px;
+  }
+  #ButtonNext {
+	  background-color: #d5ff44;
+	  border-color: #d5ff44;
+  } 
+   #Video-Serga05 {
+      border-color: grey;
+   }
+    #URL-HREF {
+    color: #3ea6ff;
+	text-decoration: none;
+	}
+	#TEXT-PINK {
+		color: #ffabba
+	}
+	.pahgigt {
+    border-bottom: 1px solid grey;
+	}
+	.body-color-pink {
+		background-color: #ffabba;
+	}
+    .SUBSCRIBE-button {
+		background-color: red;
+		height: 35px;
+		border: none;
+        width: 137px		
+	}
+    .whatONE {
+	background-color: #7dffff;
+	height: 30px;
+	border: none;
+	}
+	#button-MYtelegram {
+		background-color: #7affff;
+		border-color: #7affff;
+	}
+	#DonateButton {
+		width: 137px;
+		height: 35px;
+		background-color: #ffe34b;
+		border-color: #ffe34b;
+	}
+	#PlayList-GIBZ {
+    background-color: lime;
+	border-color: lime;
+	width: 137px;
+	height: 35px;
+		
